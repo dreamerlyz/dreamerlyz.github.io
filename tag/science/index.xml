@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science | About ME</title>
+    <link>https://dreamerlyz.github.io/tag/science/</link>
+      <atom:link href="https://dreamerlyz.github.io/tag/science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 UNiVERSE</copyright><lastBuildDate>Tue, 17 Aug 2021 12:03:18 +0800</lastBuildDate>
+    <image>
+      <url>https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png</url>
+      <title>Science</title>
+      <link>https://dreamerlyz.github.io/tag/science/</link>
+    </image>
+    
+    <item>
+      <title>Temporal and Spatial Analysis of Soil Moisture</title>
+      <link>https://dreamerlyz.github.io/project/soil-moisture/</link>
+      <pubDate>Tue, 17 Aug 2021 12:03:18 +0800</pubDate>
+      <guid>https://dreamerlyz.github.io/project/soil-moisture/</guid>
+      <description>&lt;p&gt;Aiming at the problems of sparsely measured soil moisture stations, uneven distribution, poor data continuity and insufficient research on a large scale in China, the European   Space  Agency  climate  change  initiative (ESA CCI) was applied to analyze the temporal and spatial changes of soil moisture in the 1999-2019 in typical regions of China, specifically Jilin Province in the northern part, Zhejiang Province in the eastern and middle part,  and Yunnan Province in the southern part.&lt;/p&gt;
+&lt;p&gt;This research utilized TRMM 3b42 precipitation data and GLDAS runoff and evapotranspiration data, and the linear trend analysis of soil moisture and variables are carried out according to the water balance equation. The change is explained by land cover. The analysis results of temporal and spatial changes of soil moisture show that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From  January 1999 to January 2019, the soil moisture in southern China has been at a high level for a long time, and the content is low only in 2008-2009 and 2012-2015, which may be affected by the dry season.&lt;/li&gt;
+&lt;li&gt;From  July of 1999 July 2019, there was an obvious regional distribution of soil moisture. The regional content in Southern China was high, the degree of soil moisture in Middle China was in the middle, and the soil moisture in Northern China was only about 40 degrees north latitude, which would reach 0.4 m&lt;sup&gt;3&lt;/sup&gt; / m&lt;sup&gt;3&lt;/sup&gt;.&lt;/li&gt;
+&lt;li&gt;After dividing the 21-year long time series into two stages: 1999-2009 and 2010-2019, it is found that the linear trend fitting between soil moisture and selected variables in each province is not ideal. Therefore, it is necessary to verify the applicability and effectiveness of the data before using the data set.&lt;/li&gt;
+&lt;li&gt;In general, the soil moisture content in Northeast China, the middle and lower reaches of the Yangtze River and Yunnan fluctuated greatly with time and season. Among them, the soil in Yunnan has an obvious trend of aridity, which may be related to the reduction of soil moisture in the root zone caused by large-scale afforestation, such as the strong Western Pacific subtropical high in summer, the continuous strong Qinghai Tibet high, the weak southern branch in winter and the reduction of soil moisture in the root zone.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In this paper, representative provinces are selected to study the specific model of soil moisture evolution in detail, so as to provide support and suggestions for the application research of soil moisture change and ecological environment change in China. This research provides suggestions for the follow-up research which analyzes the temporal and spatial change of soil moisture using ESA CCI SM data.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;Temporal-and-Spatial-Analysis-of-Soil-Moisture.pdf&#34;&gt;View Full Text (Simplifed Chinese)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of Applied Environmental Resources GIS</title>
+      <link>https://dreamerlyz.github.io/project/design-of-applied-environmental-resources-gis/</link>
+      <pubDate>Sun, 15 Aug 2021 06:31:45 +0000</pubDate>
+      <guid>https://dreamerlyz.github.io/project/design-of-applied-environmental-resources-gis/</guid>
+      <description>&lt;p&gt;This fertilization recommendation geographic information system is composed of Fertilization Recommendation Model and GIS. Specifically, it is a man-machine system based on computer technology. Collect, process, save and process the information in the process of fertilization, and provide various fertilization information to assist users in fertilization decision-making.&lt;/p&gt;
+&lt;p&gt;The ultimate goal of the system is to use the current advanced component GIS secondary development technology, database technology, and computer model simulation technology, take GIS technology as the core, and use visualization techniques to realize the effective integration of Fertilization Recommendation Model and applied GIS, based on various basic soil nutrient data and other spatial data, Establish fertilization recommendation geographic information system to realize fertilization recommendation based on geographic information system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Development environment:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming language: Microsoft Visual c#2010&lt;/li&gt;
+&lt;li&gt;GIS component: ESRI ArcGIS Engine 10.2&lt;/li&gt;
+&lt;li&gt;Database: Microsoft Access 2010 / 2013&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/dreamerlyz/FertilizationRecommendationSystem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View Source Code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
