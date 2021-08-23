@@ -268,45 +268,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JZHFF1JPC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-1JZHFF1JPC', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
   
@@ -344,9 +305,9 @@
   
   <meta property="twitter:card" content="summary_large_image" />
   
-  <meta property="og:site_name" content="About ME" />
+  <meta property="og:site_name" content="Li Yizhen" />
   <meta property="og:url" content="https://dreamerlyz.github.io/project/research-on-race-groups/" />
-  <meta property="og:title" content="Research on race groups from a perspective of anthropology | About ME" />
+  <meta property="og:title" content="Research on race groups from a perspective of anthropology | Li Yizhen" />
   <meta property="og:description" content="The anti-racism movement brought the word &#34;race&#34; back to life and politics. However, how to define race and whether there is a clear definition between races are not clear." /><meta property="og:image" content="https://dreamerlyz.github.io/project/research-on-race-groups/featured.png" />
     <meta property="twitter:image" content="https://dreamerlyz.github.io/project/research-on-race-groups/featured.png" /><meta property="og:locale" content="en-us" />
   
@@ -396,7 +357,7 @@
   
   "publisher": {
     "@type": "Organization",
-    "name": "About ME",
+    "name": "Li Yizhen",
     "logo": {
       "@type": "ImageObject",
       "url": "https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_192x192_fit_lanczos_3.png"
@@ -413,16 +374,8 @@
   
 
   
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JZHFF1JPC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1JZHFF1JPC');
-</script>
-
-  <title>Research on race groups from a perspective of anthropology | About ME</title>
+  <title>Research on race groups from a perspective of anthropology | Li Yizhen</title>
 </head>
 
 
@@ -502,7 +455,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="About ME"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="Li Yizhen"></a>
     </div>
     
 
@@ -515,7 +468,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="About ME"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="Li Yizhen"></a>
     </div>
     
 
@@ -1085,7 +1038,7 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/project/urbanization-in-hangzhou-of-china-1978-2021/">Urbanization in Hangzhou of China, 1978 – 2021</a></li>
+      <li><a href="/project/urbanization/">Urbanization in Hangzhou of China, 1978 – 2021</a></li>
       
     </ul>
   </div>

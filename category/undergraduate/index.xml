@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Undergraduate | About ME</title>
+    <title>Undergraduate | Li Yizhen</title>
     <link>https://dreamerlyz.github.io/category/undergraduate/</link>
       <atom:link href="https://dreamerlyz.github.io/category/undergraduate/index.xml" rel="self" type="application/rss+xml" />
     <description>Undergraduate</description>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Temporal and Spatial Analysis of Soil Moisture</title>
-      <link>https://dreamerlyz.github.io/project/temporal-and-spatial-analysis-of-soil-moisture/</link>
+      <link>https://dreamerlyz.github.io/project/soil-moisture/</link>
       <pubDate>Tue, 17 Aug 2021 12:03:18 +0800</pubDate>
-      <guid>https://dreamerlyz.github.io/project/temporal-and-spatial-analysis-of-soil-moisture/</guid>
+      <guid>https://dreamerlyz.github.io/project/soil-moisture/</guid>
       <description>&lt;p&gt;Aiming at the problems of sparsely measured soil moisture stations, uneven distribution, poor data continuity and insufficient research on a large scale in China, the European   Space  Agency  climate  change  initiative (ESA CCI) was applied to analyze the temporal and spatial changes of soil moisture in the 1999-2019 in typical regions of China, specifically Jilin Province in the northern part, Zhejiang Province in the eastern and middle part,  and Yunnan Province in the southern part.&lt;/p&gt;
 &lt;p&gt;This research utilized TRMM 3b42 precipitation data and GLDAS runoff and evapotranspiration data, and the linear trend analysis of soil moisture and variables are carried out according to the water balance equation. The change is explained by land cover. The analysis results of temporal and spatial changes of soil moisture show that:&lt;/p&gt;
 &lt;ol&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>Urbanization in Hangzhou of China, 1978 – 2021</title>
-      <link>https://dreamerlyz.github.io/project/urbanization-in-hangzhou-of-china-1978-2021/</link>
+      <link>https://dreamerlyz.github.io/project/urbanization/</link>
       <pubDate>Tue, 17 Aug 2021 03:22:22 +0000</pubDate>
-      <guid>https://dreamerlyz.github.io/project/urbanization-in-hangzhou-of-china-1978-2021/</guid>
+      <guid>https://dreamerlyz.github.io/project/urbanization/</guid>
       <description>&lt;p&gt;This paper examines the urbanization process in Hangzhou of China from 1978 to 2021 from the perspective of dual-track urbanization. The first track urbanization is sponsored by local government and state, and the second is a spontaneous track. This paper studies the relative roles of spontaneous and state-sponsored urbanization and their impacts on the spatial pattern, industrial structures, economic patterns, and characteristics of Hangzhou’s urbanization. It is found that government plays the leading role in urbanization, implementing policies on spatial structure, master plan, and economy. Spontaneous urbanization plays an important role in the process of urbanization, resulting in population migration, tertiary industry change, and economic innovation. Both tracks together guide Hangzhou’s urbanization into a pattern of its characteristics. The level of population urbanization is constantly improving; The development of urban and rural areas (spatial structure) is more coordinated; Remarkable achievements have been made in the construction of the digital economy, forming many strong private enterprises, characteristic towns, and development zones. The digital economy and private sectors have been booming since the 1990s, bring economic prosperity and urbanization. At this point, one could consider these as the distinguishing feature in Hangzhou’s urbanization, engendering the city’s modernization and urbanization.&lt;/p&gt;
 &lt;p&gt;Hangzhou’s urbanization has entered a new stage. Thus, the study offers the following major policy implications for its urbanization. On the one hand, as Hangzhou’s economy is now evidently towards in “digital and intelligence”, the over-reliance on the tertiary industry increases the difficulties in boosting advanced manufacturing and urban modern agriculture. On the other hand, more migrant workers have chosen to stay in cities instead of going back to their hometowns. Under such circumstances, urban policies must be able to address the new challenges and promote a more sustainable pattern of urbanization, providing migrants with better-quality living conditions and institution safeguards.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;Urbanization.pdf&#34;&gt;View Full Text&lt;/a&gt;&lt;/p&gt;
@@ -54,7 +54,6 @@
 &lt;li&gt;GIS component: ESRI ArcGIS Engine 10.2&lt;/li&gt;
 &lt;li&gt;Database: Microsoft Access 2010 / 2013&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/dreamerlyz/FertilizationRecommendationSystem&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View Source Code&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
