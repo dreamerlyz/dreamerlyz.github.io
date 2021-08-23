@@ -280,45 +280,6 @@
 
 
 
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JZHFF1JPC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-1JZHFF1JPC', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
   
 
   
@@ -335,7 +296,7 @@
   
 
   
-    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="About ME" />
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Li Yizhen" />
   
 
   
@@ -361,9 +322,9 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="About ME" />
+  <meta property="og:site_name" content="Li Yizhen" />
   <meta property="og:url" content="https://dreamerlyz.github.io/" />
-  <meta property="og:title" content="About ME" />
+  <meta property="og:title" content="Li Yizhen" />
   <meta property="og:description" content="Undergraduate Student" /><meta property="og:image" content="https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png" />
     <meta property="twitter:image" content="https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
   
@@ -393,16 +354,8 @@
   
 
   
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JZHFF1JPC"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-1JZHFF1JPC');
-</script>
-
-  <title>About ME</title>
+  <title>Li Yizhen</title>
 </head>
 
 
@@ -482,7 +435,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="About ME"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="Li Yizhen"></a>
     </div>
     
 
@@ -495,7 +448,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="About ME"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="Li Yizhen"></a>
     </div>
     
 
@@ -884,7 +837,7 @@
     <div class="article-style">
       <p>LI Yizhen is a fourth-year undergraduate student majoring in resource and environmental science at Zhejiang University. Her research interests include cultural geography and GIS, especially in the urbanization and the migration process. She tries to combine GIS with human geography, casting qualitative as well as quantitative insights on the socio-cultural phenomenon.</p>
 <p>
-  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/resume.pdf" target="_blank">CV</a>.</p>
+  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/resume.pdf" target="_blank">resumé</a>.</p>
 
     </div>
 
@@ -915,14 +868,6 @@
             <div class="description">
               <p class="course">BSc Candidate in Resource and Environmental Science, 2018 - 2022</p>
               <p class="institution">Zhejiang University</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">Non Graduating Student in Department of Civil and Environmental Engineering, 2021 - 2022</p>
-              <p class="institution">National University of Singapore</p>
             </div>
           </li>
           
@@ -1144,17 +1089,17 @@
               
                 
               
-              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">🌌  All</a>
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
             
               
               
               
-              <a href="#" data-filter=".js-id-Art" class="btn btn-primary btn-lg">🌠 Art</a>
+              <a href="#" data-filter=".js-id-Art" class="btn btn-primary btn-lg">Art</a>
             
               
               
               
-              <a href="#" data-filter=".js-id-Science" class="btn btn-primary btn-lg">🌠Science</a>
+              <a href="#" data-filter=".js-id-Science" class="btn btn-primary btn-lg">Science</a>
             
           </div>
         </div>
@@ -1202,7 +1147,7 @@
 <div class="col-lg-12 project-item isotope-item js-id-Science js-id-Remote-Sensing js-id-Applied-GIS js-id-Hydrology">
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
-      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/temporal-and-spatial-analysis-of-soil-moisture/" >Temporal and Spatial Analysis of Soil Moisture</a></div>
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/soil-moisture/" >Temporal and Spatial Analysis of Soil Moisture</a></div>
 
       
       <div class="article-style">
@@ -1223,10 +1168,6 @@
   
 
 
-
-<a class="btn btn-outline-primary btn-page-header" href="/project/temporal-and-spatial-analysis-of-soil-moisture/Temporal-and-Spatial-Analysis-of-Soil-Moisture.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
 
 
 
@@ -1251,8 +1192,8 @@
       
       
       
-      <a href="/project/temporal-and-spatial-analysis-of-soil-moisture/" >
-        <img src="/project/temporal-and-spatial-analysis-of-soil-moisture/featured_hu11036bb75a2f36c80fcea67f19280269_1082876_540x0_resize_lanczos_3.png" alt="Temporal and Spatial Analysis of Soil Moisture" loading="lazy">
+      <a href="/project/soil-moisture/" >
+        <img src="/project/soil-moisture/featured_hu11036bb75a2f36c80fcea67f19280269_1082876_540x0_resize_lanczos_3.png" alt="Temporal and Spatial Analysis of Soil Moisture" loading="lazy">
       </a>
       
     </div>
@@ -1295,7 +1236,7 @@
 <div class="col-lg-12 project-item isotope-item js-id-Art js-id-UrbanizationProcess">
   <div class="row align-items-center">
     <div class="col-12 col-md-6">
-      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/urbanization-in-hangzhou-of-china-1978-2021/" >Urbanization in Hangzhou of China, 1978 – 2021</a></div>
+      <div class="section-subheading article-title mb-0 mt-0"><a href="/project/urbanization/" >Urbanization in Hangzhou of China, 1978 – 2021</a></div>
 
       
       <div class="article-style">
@@ -1317,7 +1258,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="/project/urbanization-in-hangzhou-of-china-1978-2021/Urbanization-in-Hangzhou-of-China-1978-2021.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/project/urbanization/Urbanization.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1344,8 +1285,8 @@
       
       
       
-      <a href="/project/urbanization-in-hangzhou-of-china-1978-2021/" >
-        <img src="/project/urbanization-in-hangzhou-of-china-1978-2021/featured_hub94ce15a0f4e394a45dd6f931c33c5a0_453602_540x0_resize_lanczos_3.png" alt="Urbanization in Hangzhou of China, 1978 – 2021" loading="lazy">
+      <a href="/project/urbanization/" >
+        <img src="/project/urbanization/featured_hub94ce15a0f4e394a45dd6f931c33c5a0_453602_540x0_resize_lanczos_3.png" alt="Urbanization in Hangzhou of China, 1978 – 2021" loading="lazy">
       </a>
       
     </div>
@@ -1410,14 +1351,6 @@
 
 
 
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://github.com/dreamerlyz/FertilizationRecommendationSystem" target="_blank" rel="noopener">
-  Code
-</a>
 
 
 

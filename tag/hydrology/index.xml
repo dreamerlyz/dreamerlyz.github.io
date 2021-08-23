@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hydrology | About ME</title>
+    <title>Hydrology | Li Yizhen</title>
     <link>https://dreamerlyz.github.io/tag/hydrology/</link>
       <atom:link href="https://dreamerlyz.github.io/tag/hydrology/index.xml" rel="self" type="application/rss+xml" />
     <description>Hydrology</description>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Temporal and Spatial Analysis of Soil Moisture</title>
-      <link>https://dreamerlyz.github.io/project/temporal-and-spatial-analysis-of-soil-moisture/</link>
+      <link>https://dreamerlyz.github.io/project/soil-moisture/</link>
       <pubDate>Tue, 17 Aug 2021 12:03:18 +0800</pubDate>
-      <guid>https://dreamerlyz.github.io/project/temporal-and-spatial-analysis-of-soil-moisture/</guid>
+      <guid>https://dreamerlyz.github.io/project/soil-moisture/</guid>
       <description>&lt;p&gt;Aiming at the problems of sparsely measured soil moisture stations, uneven distribution, poor data continuity and insufficient research on a large scale in China, the European   Space  Agency  climate  change  initiative (ESA CCI) was applied to analyze the temporal and spatial changes of soil moisture in the 1999-2019 in typical regions of China, specifically Jilin Province in the northern part, Zhejiang Province in the eastern and middle part,  and Yunnan Province in the southern part.&lt;/p&gt;
 &lt;p&gt;This research utilized TRMM 3b42 precipitation data and GLDAS runoff and evapotranspiration data, and the linear trend analysis of soil moisture and variables are carried out according to the water balance equation. The change is explained by land cover. The analysis results of temporal and spatial changes of soil moisture show that:&lt;/p&gt;
 &lt;ol&gt;
