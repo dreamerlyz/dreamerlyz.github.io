@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Li Yizhen</title>
-    <link>https://dreamerlyz.github.io/project/</link>
-      <atom:link href="https://dreamerlyz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | About ME</title>
+    <link>https://yottahub.github.io/project/</link>
+      <atom:link href="https://yottahub.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 UNiVERSE</copyright><lastBuildDate>Tue, 17 Aug 2021 12:03:18 +0800</lastBuildDate>
     <image>
-      <url>https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png</url>
+      <url>https://yottahub.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
-      <link>https://dreamerlyz.github.io/project/</link>
+      <link>https://yottahub.github.io/project/</link>
     </image>
     
     <item>
       <title>Temporal and Spatial Analysis of Soil Moisture</title>
-      <link>https://dreamerlyz.github.io/project/soil-moisture/</link>
+      <link>https://yottahub.github.io/project/soil-moisture/</link>
       <pubDate>Tue, 17 Aug 2021 12:03:18 +0800</pubDate>
-      <guid>https://dreamerlyz.github.io/project/soil-moisture/</guid>
+      <guid>https://yottahub.github.io/project/soil-moisture/</guid>
       <description>&lt;p&gt;Aiming at the problems of sparsely measured soil moisture stations, uneven distribution, poor data continuity and insufficient research on a large scale in China, the European   Space  Agency  climate  change  initiative (ESA CCI) was applied to analyze the temporal and spatial changes of soil moisture in the 1999-2019 in typical regions of China, specifically Jilin Province in the northern part, Zhejiang Province in the eastern and middle part,  and Yunnan Province in the southern part.&lt;/p&gt;
 &lt;p&gt;This research utilized TRMM 3b42 precipitation data and GLDAS runoff and evapotranspiration data, and the linear trend analysis of soil moisture and variables are carried out according to the water balance equation. The change is explained by land cover. The analysis results of temporal and spatial changes of soil moisture show that:&lt;/p&gt;
 &lt;ol&gt;
@@ -32,9 +32,9 @@
     
     <item>
       <title>Urbanization in Hangzhou of China, 1978 – 2021</title>
-      <link>https://dreamerlyz.github.io/project/urbanization/</link>
+      <link>https://yottahub.github.io/project/urbanization/</link>
       <pubDate>Tue, 17 Aug 2021 03:22:22 +0000</pubDate>
-      <guid>https://dreamerlyz.github.io/project/urbanization/</guid>
+      <guid>https://yottahub.github.io/project/urbanization/</guid>
       <description>&lt;p&gt;This paper examines the urbanization process in Hangzhou of China from 1978 to 2021 from the perspective of dual-track urbanization. The first track urbanization is sponsored by local government and state, and the second is a spontaneous track. This paper studies the relative roles of spontaneous and state-sponsored urbanization and their impacts on the spatial pattern, industrial structures, economic patterns, and characteristics of Hangzhou’s urbanization. It is found that government plays the leading role in urbanization, implementing policies on spatial structure, master plan, and economy. Spontaneous urbanization plays an important role in the process of urbanization, resulting in population migration, tertiary industry change, and economic innovation. Both tracks together guide Hangzhou’s urbanization into a pattern of its characteristics. The level of population urbanization is constantly improving; The development of urban and rural areas (spatial structure) is more coordinated; Remarkable achievements have been made in the construction of the digital economy, forming many strong private enterprises, characteristic towns, and development zones. The digital economy and private sectors have been booming since the 1990s, bring economic prosperity and urbanization. At this point, one could consider these as the distinguishing feature in Hangzhou’s urbanization, engendering the city’s modernization and urbanization.&lt;/p&gt;
 &lt;p&gt;Hangzhou’s urbanization has entered a new stage. Thus, the study offers the following major policy implications for its urbanization. On the one hand, as Hangzhou’s economy is now evidently towards in “digital and intelligence”, the over-reliance on the tertiary industry increases the difficulties in boosting advanced manufacturing and urban modern agriculture. On the other hand, more migrant workers have chosen to stay in cities instead of going back to their hometowns. Under such circumstances, urban policies must be able to address the new challenges and promote a more sustainable pattern of urbanization, providing migrants with better-quality living conditions and institution safeguards.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;Urbanization.pdf&#34;&gt;View Full Text&lt;/a&gt;&lt;/p&gt;
@@ -43,9 +43,9 @@
     
     <item>
       <title>Design of Applied Environmental Resources GIS</title>
-      <link>https://dreamerlyz.github.io/project/design-of-applied-environmental-resources-gis/</link>
+      <link>https://yottahub.github.io/project/design-of-applied-environmental-resources-gis/</link>
       <pubDate>Sun, 15 Aug 2021 06:31:45 +0000</pubDate>
-      <guid>https://dreamerlyz.github.io/project/design-of-applied-environmental-resources-gis/</guid>
+      <guid>https://yottahub.github.io/project/design-of-applied-environmental-resources-gis/</guid>
       <description>&lt;p&gt;This fertilization recommendation geographic information system is composed of Fertilization Recommendation Model and GIS. Specifically, it is a man-machine system based on computer technology. Collect, process, save and process the information in the process of fertilization, and provide various fertilization information to assist users in fertilization decision-making.&lt;/p&gt;
 &lt;p&gt;The ultimate goal of the system is to use the current advanced component GIS secondary development technology, database technology, and computer model simulation technology, take GIS technology as the core, and use visualization techniques to realize the effective integration of Fertilization Recommendation Model and applied GIS, based on various basic soil nutrient data and other spatial data, Establish fertilization recommendation geographic information system to realize fertilization recommendation based on geographic information system.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Development environment:&lt;/strong&gt;&lt;/p&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Research on race groups from a perspective of anthropology</title>
-      <link>https://dreamerlyz.github.io/project/research-on-race-groups/</link>
+      <link>https://yottahub.github.io/project/research-on-race-groups/</link>
       <pubDate>Sun, 15 Aug 2021 06:31:45 +0000</pubDate>
-      <guid>https://dreamerlyz.github.io/project/research-on-race-groups/</guid>
+      <guid>https://yottahub.github.io/project/research-on-race-groups/</guid>
       <description>&lt;p&gt;The anti-racism movement brought the word &amp;ldquo;race&amp;rdquo; back to life and politics. However, how to define race and whether there is a clear definition between races are not clear.&lt;/p&gt;
 &lt;p&gt;From the perspective of anthropology, this paper explores the impact of the development of multi-regional evolution theory and molecular biology on racial division. This paper argues that gene exchange and fitness genetic variation make it unreliable to divide the human race only by skin color and region. In the context of multiculturalism, we should not give up modern genetics to explore the differences within and between the currently divided ethnic groups. We should rationally look at the overall differences in some aspects between the currently divided ethnic groups, understand the impact of environment, variation，and communication on genes, and correctly understand the individual diversity within the race&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;Research-on-race-groups.pdf&#34;&gt;View Full Text (Simplifed Chinese)&lt;/a&gt;&lt;/p&gt;

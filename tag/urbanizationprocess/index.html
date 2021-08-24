@@ -268,12 +268,51 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JZHFF1JPC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-1JZHFF1JPC', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
 
   
 
   
 
+  
+
 
 
 
@@ -282,7 +321,7 @@
   
 
   
-    <link rel="alternate" href="/tag/urbanizationprocess/index.xml" type="application/rss+xml" title="Li Yizhen" />
+    <link rel="alternate" href="/tag/urbanizationprocess/index.xml" type="application/rss+xml" title="About ME" />
   
 
   
@@ -308,9 +347,9 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Li Yizhen" />
+  <meta property="og:site_name" content="About ME" />
   <meta property="og:url" content="https://dreamerlyz.github.io/tag/urbanizationprocess/" />
-  <meta property="og:title" content="UrbanizationProcess | Li Yizhen" />
+  <meta property="og:title" content="UrbanizationProcess | About ME" />
   <meta property="og:description" content="Undergraduate Student" /><meta property="og:image" content="https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png" />
     <meta property="twitter:image" content="https://dreamerlyz.github.io/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_300x300_fit_lanczos_3.png" /><meta property="og:locale" content="en-us" />
   
@@ -326,8 +365,16 @@
   
 
   
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1JZHFF1JPC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  <title>UrbanizationProcess | Li Yizhen</title>
+  gtag('config', 'G-1JZHFF1JPC');
+</script>
+
+  <title>UrbanizationProcess | About ME</title>
 </head>
 
 
@@ -407,7 +454,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="Li Yizhen"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="About ME"></a>
     </div>
     
 
@@ -420,7 +467,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="Li Yizhen"></a>
+      <a class="navbar-brand" href="/"><img src="/media/logo_hub929953566f5c1dd7445eb5922da07f2_382219_0x70_resize_lanczos_3.png" alt="About ME"></a>
     </div>
     
 
@@ -691,11 +738,11 @@
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/project/urbanization/" >Urbanization in Hangzhou of China, 1978 – 2021</a>
+      <a href="/project/urbanization-in-hangzhou-of-china-1978-2021/" >Urbanization in Hangzhou of China, 1978 – 2021</a>
     </div>
 
     
-    <a href="/project/urbanization/"  class="summary-link">
+    <a href="/project/urbanization-in-hangzhou-of-china-1978-2021/"  class="summary-link">
       <div class="article-style">
         This paper examines the urbanization process in Hangzhou of China from 1978 to 2021 from the perspective of dual-track urbanization.
       </div>
@@ -706,6 +753,13 @@
 
       
 
+      
+      <div>
+        
+
+  <span >
+      LI Yizhen</span>
+      </div>
       
     </div>
 
@@ -724,7 +778,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/urbanization/Urbanization.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/urbanization-in-hangzhou-of-china-1978-2021/Urbanization-in-Hangzhou-of-China-1978-2021.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -752,8 +806,8 @@
     
     
     
-    <a href="/project/urbanization/" >
-      <img src="/project/urbanization/featured_hub94ce15a0f4e394a45dd6f931c33c5a0_453602_150x0_resize_lanczos_3.png" alt="Urbanization in Hangzhou of China, 1978 – 2021" loading="lazy">
+    <a href="/project/urbanization-in-hangzhou-of-china-1978-2021/" >
+      <img src="/project/urbanization-in-hangzhou-of-china-1978-2021/featured_hub94ce15a0f4e394a45dd6f931c33c5a0_453602_150x0_resize_lanczos_3.png" alt="Urbanization in Hangzhou of China, 1978 – 2021" loading="lazy">
     </a>
     
   </div>
